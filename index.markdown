@@ -10,6 +10,8 @@ permalink: / # homepage
 
 Welcome to my website! I'm Hatta Misra, professional energy markets nerd in Sydney, Australia. Also amateur science fiction, worldbuilding, linguistics, and mystery nerd.
 
+[Sign up to my 27th birthday pub quiz](https://forms.gle/R2ZRbuHLkERRARna9){: .btn .btn--info .btn--large}
+
 [<i class="fas fa-fw fa-envelope"></i>](mailto:hattamisra@gmail.com){: .btn .btn--mail .btn--large}
 [<i class="fas fa-fw fa-briefcase"></i>](/assets/files/Hatta_Misra_Resume.pdf){: .btn .btn--primary .btn--large}
 [<i class="fab fa-fw fa-github"></i>](https://github.com/hattamisra){: .btn .btn--github .btn--large}
