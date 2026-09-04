@@ -8,6 +8,7 @@
   $buttoncolors:
   (mail, #c71610),
   (github, #000),
+  (reddit, #ff5500),
   (instagram, #ec0075);
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
